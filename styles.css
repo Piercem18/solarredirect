@@ -42,4 +42,14 @@
     stroke-linecap:round;
     stroke-linejoin:round;
   }
-  
+  @media (max-width: 415px) {
+ 
+    h1{
+      font-size: 30px;
+      
+  }
+  p {
+    font-size: 18px;
+   
+  }
+}
